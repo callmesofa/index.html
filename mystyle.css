@@ -35,7 +35,7 @@ div {
   column-rule-width: 1px;
 }
 div {
-  column-rule-color: blue;
+  column-rule-color: #ffff00;
 }
 div {
   column-rule: 5px solid #ffff00;

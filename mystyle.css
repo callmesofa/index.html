@@ -38,7 +38,7 @@ div {
   column-rule-color: blue;
 }
 div {
-  column-rule: 1px solid blue;
+  column-rule: 5px solid #ffff00;
 }
 h2 {
   column-span: all;
